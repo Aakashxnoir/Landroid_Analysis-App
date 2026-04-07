@@ -1,0 +1,15 @@
+{
+    "land_health_score": 61.86,
+    "confidence_score": 50,
+    "components": {
+        "vegetation_health": 49.38,
+        "rainfall_consistency": 80.49,
+        "soil_quality": 50.0,
+        "temperature_stability": 79.65
+    },
+    "raw_attributes": {
+        "soil_organic_carbon": null,
+        "soil_ph": null,
+        "avg_monthly_temp": 24.67
+    }
+}
